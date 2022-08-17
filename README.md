@@ -5,6 +5,7 @@ improve and make life easier. I am looking for my first experience in the IT ind
 scripting.
 
 ## Currently 👾
+* ASYNC JS
 * practising RWD using design from web,
 * learning git - advance level
 * finishing "The Web Developer Bootcamp", by Colt Steele
