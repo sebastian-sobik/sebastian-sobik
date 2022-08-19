@@ -1,3 +1,8 @@
+<!--
+  Dodaj:
+    New skills ⚡
+    * git - 
+-->
 ## Short note about me 👋
 I have always felt a desire to create useful tools. This led me to my current position - the IT path. At the moment I am second year computer science student,    
 developing my passions through it. My spare time is filled with programming, always having in mind my goal - creating useful, intuitive programs which could 
@@ -27,17 +32,3 @@ scripting.
 *  figma, photoshop
 
 
-<!--
-**sebastian-sobik/sebastian-sobik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
