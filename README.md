@@ -9,7 +9,7 @@ I have always felt a desire to create useful tools. This led me to my current po
 ## Currently 👾
 * ASYNC JS
 * practising RWD using design from web,
-* learning git - advance level
+* ~learning git - advance level~ `completed`
 * finishing "The Web Developer Bootcamp", by Colt Steele
 
 ## Things to learn in upcoming future 🧠
@@ -27,5 +27,6 @@ I have always felt a desire to create useful tools. This led me to my current po
 *  object oriented programming
 *  responsive web design
 *  figma, photoshop
+*  git, github `new ⚡`
 
 
