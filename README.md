@@ -7,7 +7,7 @@ I have always felt a desire to create useful tools. This led me to my current po
 * ~learning git - advance level~ `completed`
 * finishing "The Web Developer Bootcamp", by Colt Steele
 * SOLID `new ⚡`
-* Scss `new ⚡`
+* SCSS `new ⚡`
 
 ## Things to learn in upcoming future 🧠
 * Node
