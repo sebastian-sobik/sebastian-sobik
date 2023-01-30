@@ -3,9 +3,8 @@ I have always felt a desire to create useful tools. This led me to my current po
 My spare time is filled with programming, always having in mind my goal - creating useful, intuitive programs which could improve and make life easier. I am looking for my first experience in the IT industry to improve my skills in building applications, both architecturally and scripting.
 
 ## Currently 👾
-* ASYNC JS
+* Typescript 
 * ~~finishing "The Web Developer Bootcamp", by Colt Steele~~  `completed 👌 (without part with extended backend)`
-* SOLID 
 * ~~SCSS~~  `completed 👌🏼`
 
 ## Things to learn in upcoming future 🧠
