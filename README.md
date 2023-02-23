@@ -10,7 +10,6 @@ My spare time is filled with programming, always having in mind my goal - creati
 
 ## Things to learn in upcoming future 🧠
 * React/Angular/Vue    
-* Other stuff that I do not know about yet
 
 ## Tech stack 💻
 *  ES6 and standard
