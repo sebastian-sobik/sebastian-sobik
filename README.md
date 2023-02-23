@@ -4,6 +4,7 @@ My spare time is filled with programming, always having in mind my goal - creati
 
 ## Currently 👾
 * Typescript 
+* Webpack, Babel
 * ~~finishing "The Web Developer Bootcamp", by Colt Steele~~  `completed 👌 (without part with extended backend)`
 * ~~SCSS~~  `completed 👌🏼`
 
