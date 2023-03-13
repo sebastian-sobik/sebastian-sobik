@@ -4,8 +4,8 @@ My spare time is filled with programming, always having in mind my goal - creati
 
 ## Currently learning 👾
 * Angular
-* ~~Typescript~~ 
-* ~~Webpack, Babel~~
+* ~~Typescript~~ `⚡completed`
+* ~~Webpack, Babel~~ `⚡completed`
 
 ## Tech stack 💻
 *  JS (Typescript) - ES6, async JS
@@ -16,4 +16,3 @@ My spare time is filled with programming, always having in mind my goal - creati
 *  Responsive Web Design
 *  figma (also designing), photoshop
 *  git, github
-
