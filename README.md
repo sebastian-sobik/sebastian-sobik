@@ -5,11 +5,12 @@ My spare time is filled with programming, always having in mind my goal - creati
 </div>
 
 ## Currently learning 👾
-* Angular
+* expanding my Angular knowledge
 * ~~Typescript~~ `⚡completed`
 * ~~Webpack, Babel~~ `⚡completed`
 
 ## Tech stack 💻
+*  Angular - main concepts
 *  JS (Typescript) - ES6, async JS
 *  CSS3 (SCSS)
 *  Semantic HTML5
