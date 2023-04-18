@@ -6,6 +6,7 @@ My spare time is filled with programming, always having in mind my goal - creati
 
 ## Currently learning 👾
 * expanding my Angular knowledge
+* RxJS
 * ~~Typescript~~ `⚡completed`
 * ~~Webpack, Babel~~ `⚡completed`
 
